@@ -1,2 +1,0 @@
-# thaynarabyte
-Workshop do GitHub
